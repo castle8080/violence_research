@@ -1,0 +1,9 @@
+Value Label
+1 Death of offender
+2 Prosecution declined
+3 In custody of other jurisdiction (includes extradition denied)
+4 Victim refused coop
+5 Juvenile/no custody
+Missing Data
+-5 NA Window/Grp B Record
+-6 Not applicable

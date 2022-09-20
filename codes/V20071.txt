@@ -1,0 +1,9 @@
+Value Label
+0 Attempted
+1 Completed
+Missing Data
+-9 Undetermined
+-8 NA LT 3 records
+-7 Unknown/Missing/DNR
+-6 Not applicable
+-5 NA Window/Grp B Record

@@ -1,0 +1,9 @@
+Value Label
+1 Alcohol
+2 Computer equipment
+3 Drugs/narcotics
+Missing Data
+-9 Undetermined
+-8 NA LT 3 records
+-7 Unknown/Missing/DNR
+-6 Not applicable
