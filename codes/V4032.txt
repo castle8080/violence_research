@@ -1,0 +1,34 @@
+Value Label
+0 N offenders unknown
+Within Family
+1 Victim was Spouse
+2 Victim was Common-Law Spouse
+3 Victim was Parent
+4 Victim was Sibling
+5 Victim was Child
+6 Victim was Grandparent
+7 Victim was Grandchild
+8 Victim was In-Law
+9 Victim was Stepparent
+10 Victim was Stepchild
+11 Victim was Stepsibling
+12 Victim was Other Family Member
+13 Victim was Offender
+Outside Family But Known To Victim
+14 Victim was Acquaintance
+15 Victim was Friend
+16 Victim was Neighbor
+17 Victim was Babysittee (the baby)
+18 Victim was Boyfriend/Girlfriend
+19 Victim was Child of Boyfriend/Girlfriend
+20 Homosexual Relationship
+21 Victim was Ex-Spouse
+22 Victim was Employee
+23 Victim was Employer
+24 Victim was Otherwise Known
+Not Known To Victim
+25 Victim was Stranger
+Missing Data
+-9 Undetermined
+-7 Unknown/Missing/DNR
+-6 Not applicable

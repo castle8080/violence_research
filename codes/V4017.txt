@@ -1,0 +1,11 @@
+1 Individual
+2 Business
+3 Financial Institution
+4 Government
+5 Law Enforcement Officer
+6 Religious Organization
+7 Society/Public
+8 Other
+-9 Undetermined
+-7 Unknown/missing/DNR
+-6 Not applicable

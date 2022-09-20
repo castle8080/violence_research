@@ -1,0 +1,26 @@
+110 Firearm (type not stated)
+111 Firearm-automatic
+120 Handgun
+121 Handgun-automatic
+130 Rifle
+131 Rifle-automatic
+140 Shotgun
+141 Shotgun-automatic
+150 Other Firearm
+151 Other Firearm-automatic
+200 Knife/Cutting Instrument
+300 Blunt Object
+350 Motor Vehicle
+400 Personal Weapons (hands, feet, teeth, etc.)
+500 Poison (include gas)
+600 Explosives
+650 Fire/Incendiary Device
+700 Drugs/Narcotics/Sleeping Pills
+850 Asphyxiation
+900 Other
+990 None
+-9 Undetermined
+-8 NA LT 3 records
+-7 Unknown/Missing/DNR
+-6 Not applicable
+-5 NA Window/Grp B Record

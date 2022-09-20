@@ -1,0 +1,50 @@
+Value Label
+Anti-Racial
+11 Anti-White
+12 Anti-Black or African American
+13 Anti-American Indian or Alaska Native
+14 Anti-Asian
+15 Anti-Multi-Racial Group
+16 Anti-Native Hawaiian or Other Pacific Islander
+Anti-Religious
+21 Anti-Jewish
+22 Anti-Catholic
+23 Anti-Protestant
+24 Anti-Islamic (Muslim)
+25 Anti-Other Religion
+26 Anti-Multi-Religious Group
+27 Anti-Atheism/Agnosticism
+28 Anti-Mormon
+81 Anti-Anti-Eastern Orthodox (Greek, Russian, etc.)
+82 Anti-Other Christian
+83 Anti-Buddhist
+84 Anti-Hindu
+85 Anti-Sikh
+Anti-Ethnicity/National Origin
+32 Anti-Hispanic or Latino
+33 Anti-Not Hispanic or Latino
+Anti-Sexual
+41 Anti-Gay
+42 Anti-Lesbian
+43 Anti-Lesbian, Gay, Bisexual, or Transgender, Mixed Group (LGBT)
+44 Anti-Heterosexual
+45 Anti-Bisexual
+Anti-Physical/Mental Disability
+51 Anti-Physical Disability
+52 Anti-Mental Disability
+Anti-Gender
+61 Anti-Male
+- Study 37066 -
+- 83 -
+Value Label
+62 Anti-Female
+71 Anti-Transgender
+72 Anti-Gender Non-Conforming
+88 None
+99 Unknown
+Missing Data
+-9 Undetermined
+-8 NA LT 3 records
+-7 Unknown/Missing/DNR
+-6 Not applicable
+-5 NA Window/Grp B Record

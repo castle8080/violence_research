@@ -1,0 +1,17 @@
+1 Buying/Receiving
+2 Cultivating/Manufacturing/Publishing
+3 Distributing/Selling
+4 Exploiting Children
+5 Other Gang
+6 Juvenile Gang
+7 None/Unknown Gang Involvement
+8 Operating/Promoting/Assisting
+9 Possessing/Concealing
+10 Transporting/Transmitting/Importing
+11 Using/Consuming
+12 Intentional Abuse and Torture
+-9 Undetermined
+-8 NA LT 3 records
+-7 Unknown/Missing/DNR
+-6 Not applicable
+-5 NA Window/Grp B Record

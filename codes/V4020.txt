@@ -1,0 +1,8 @@
+1 White
+2 Black or African American
+3 American Indian or Alaska Native
+4 Asian
+5 Native Hawaiian or Other Pacific Islander
+-9 Undetermined
+-7 Unknown/missing/DNR
+-6 Not applicable

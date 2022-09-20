@@ -1,0 +1,7 @@
+0.1 Under 24 hours (neonate)
+0.2 1-6 days old
+0.5 7-364 days old
+99.0 Over 98 years old
+-9.0 Undetermined
+-7.0 Unknown/missing/DNR
+-6.0 Not applicable

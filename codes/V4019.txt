@@ -1,0 +1,5 @@
+0 Female
+1 Male
+-9 Undetermined
+-7 Unknown/missing/DNR
+-6 Not applicable

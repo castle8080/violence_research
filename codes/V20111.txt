@@ -1,0 +1,51 @@
+1 Air/Bus/Train Terminal
+2 Bank/Savings and Loan
+3 Bar/Nightclub
+4 Church/Synagogue/Temple/Mosque
+5 Commercial/Office Building
+6 Construction Site
+7 Convenience Store
+8 Department/Discount Store
+9 Drug Store/Drs Office/Hospital
+10 Field/Woods
+11 Government/Public Building
+12 Grocery/Supermarket
+13 Highway/Road/Alley/Street/Sidewalk
+14 Hotel/Motel/Etc.
+15 Jail/Prison/Penitentiary/Corrections Facility
+16 Lake/Waterway/Beach
+17 Liquor Store
+18 Parking Lot/Garage
+19 Rental Stor. Facil.
+20 Residence/Home
+21 Restaurant
+22 School/College
+23 Service/Gas Station
+24 Specialty Store (TV, Fur, Etc.)
+25 Other/unknown
+37 Abandoned/condemned structure
+38 Amusement park
+39 Arena/stadium/fairgrounds/coliseum
+40 ATM separate from bank
+41 Auto dealership new/used
+42 Camp/campground
+44 Daycare facility
+45 Dock/wharf/freight/modal terminal
+46 Farm facility
+47 Gambling facility/casino/race track
+48 Industrial site
+49 Military installation
+50 Park/playground
+51 Rest area
+52 School--college/university
+53 School--elementary/secondary
+54 Shelter--mission/homeless
+55 Shopping mall
+56 Tribal lands
+57 Community center
+58 Cyberspace
+-9 Undetermined
+-8 NA LT 3 records
+-7 Unknown/Missing/DNR
+-6 Not applicable
+-5 NA Window/Grp B Record
